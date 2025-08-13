@@ -1,6 +1,6 @@
    .attribution { font-size: 11px; text-align: center; }
     .attribution a { color: hsl(228, 45%, 44%); }
-body{ font-family: url(https://fonts.google.com/specimen/Hanken+Grotesk );
+body{ 
      height:100vh;
      width:100%;
      max-width: 375px;
@@ -71,4 +71,5 @@ button{ background-color:hsl(224, 30%, 27%);
                 text-align: left;}
 .part_2 {flex-direction:column;} 
 .part_1, h2, p { text-align: center;}
+
 } 
