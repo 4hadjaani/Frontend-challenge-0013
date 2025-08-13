@@ -9,7 +9,7 @@ body{
            margin: 0 auto;
            padding:5px;
            background-color: #FFFFFF ; } 
-.Part_1{ background: linear-gradient(to top , #6642FE,#342EAA); 
+.Part_1{ background: linear-gradient(to top, #6642FE, #342EAA); 
          border-radius: 10%;
          color:hsl(0, 0%, 100%);
          text-align:center; 
@@ -73,4 +73,5 @@ button{ background-color:hsl(224, 30%, 27%);
 .part_1, h2, p { text-align: center;}
 
 } 
+
 
